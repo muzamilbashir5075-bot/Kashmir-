@@ -6,3 +6,10 @@
   events:
   - type: WEBHOOK
   arch: ARM64
+  actions:
+  - action: gradle build
+    type: BUILD
+    commands: gradle build
+    shell: BASH
+    docker_image_name: library/gradle
+    docker_image_tag: "9.3"
