@@ -1,0 +1,7 @@
+{
+  "name": "Kashmir Shawl Market",
+  "description": "A production-ready marketplace for Kashmiri shawls, Sozni work, Pashmina, embroidery, and handmade products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
